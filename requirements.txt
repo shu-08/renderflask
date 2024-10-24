@@ -1,5 +1,2 @@
 Flask
-yt_dlp
-os
-requests
 Gunicorn
